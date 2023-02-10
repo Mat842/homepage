@@ -1,0 +1,7 @@
+.container {
+    color: hsl(256, 94%, 13%);
+}
+
+.container__attention {
+    color: black;
+}

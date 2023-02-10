@@ -1,7 +1,5 @@
 # Mateusz Kornacki - My first website
 
-[](images/ball.gif)
-
 ## Demo
 
 https://mat842.github.io/homepage/

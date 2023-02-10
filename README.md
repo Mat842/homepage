@@ -1,6 +1,6 @@
 # Mateusz Kornacki - My first website
 
-![ball](images/ball.gif)
+[ball](images/ball.gif)
 
 ## Demo
 

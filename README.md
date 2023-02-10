@@ -1,6 +1,6 @@
 # Mateusz Kornacki - My first website
 
-(images/ball.gif)
+[](images/ball.gif)
 
 ## Demo
 

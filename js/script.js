@@ -6,17 +6,15 @@
     welcome();
 
     const hidePicture = () => {
-        const pushbutton = document.querySelector(".pushbutton");
         const left = document.querySelector(".left");
 
-        pushbutton.addEventListener("click", () => {
-            left.remove();
-        })
+        left.remove();
     };
 
     const init = () => {
-        hidePicture();
+        const pushbutton = document.querySelector(".pushbutton");
+        pushbutton.addEventListener("click", hidePicture);
     }
-
+    
     init();
 }

@@ -20,3 +20,6 @@ I admire him because he proved that hard work combined with passion for what you
 - I used to a normalizer version - 8.0.1,
 - I used to a font with family - Montserrat,
 - A button appeared on the page that, when pressed, hides the photo.
+
+![Screenshot](images/screenshot.png)
+
